@@ -8,7 +8,9 @@ W przypadkach zamówień które posiadały wiersze gdzie kolumna 'Ilość' posia
 
 # Dashboard
 <img width="1320" height="806" alt="dashboard" src="https://github.com/user-attachments/assets/78719b8e-471c-4c8c-93fe-9ddf45db00e4" />
+
 # Wnioski
+
 * Panuje szablon gdzie na przestrzeni zimy firma odnotowuje ponad 20% spadki przychodu, zalecana jest zmiana ofert sezonowych lub wprowadzenie ofert promocyjnych w tym czasie.
 * Większość przychodów firmy pochodzi z Wielkiej Brytanii (Suma przychodów z UK jest większa niż suma przychodów wszystkich pozostałych krajów).
 * Irlandia generuje nieproporcjonalnie niski przychód względem wielkości rynku brytyjskiego, mimo geograficznej bliskości. Warto zbadać, czy to efekt niższej świadomości marki, czy braku lokalnej promocji.
